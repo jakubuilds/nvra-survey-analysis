@@ -1,0 +1,9 @@
+*~
+*.tmp
+*.pdf
+*.htm*
+*.doc*
+/assets/*
+/data/*
+/output/*
+
